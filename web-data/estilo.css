@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; }
+form { margin-bottom: 20px; padding: 15px; background: white; border: 1px solid #ccc; max-width: 300px; border-radius: 5px;}
+input { display: block; margin-bottom: 10px; width: 100%; padding: 8px; box-sizing: border-box; }
+button { padding: 10px; width: 100%; background: #28a745; color: white; border: none; cursor: pointer; border-radius: 3px;}
+button:hover { background: #2f92ee; }
+ul { list-style: none; padding: 0; }
+li { background: white; margin-bottom: 5px; padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
